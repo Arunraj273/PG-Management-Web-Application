@@ -1,5 +1,5 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
+# Welcome to Your Project
+PG Management Web Application Link URL
     URL:https:https://app-7te7u5l37v29.appmedo.com/login
 
 # PG Management App
