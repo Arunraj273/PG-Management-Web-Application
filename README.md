@@ -27,8 +27,6 @@ A comprehensive full-stack web application for managing Paying Guest (PG) accomm
    - Password must be at least 6 characters
 3. **Start Managing**: Add rooms and tenants through the intuitive dashboard
 
-📖 **See [QUICK_START.md](./docs/QUICK_START.md) for a detailed 5-minute guide**
-
 ### For Developers
 
 #### Prerequisites
@@ -127,12 +125,6 @@ VITE_APP_ID=app-7te7u5l37v29
 - Protected routes with authentication middleware
 - Session management with Supabase Auth
 
-## 📚 Documentation
-
-- **[QUICK_START.md](./docs/QUICK_START.md)** - Get started in 5 minutes
-- **[USER_GUIDE.md](./docs/USER_GUIDE.md)** - Complete user manual
-- **[IMPLEMENTATION_SUMMARY.md](./docs/IMPLEMENTATION_SUMMARY.md)** - Technical documentation
-
 ##  Development
 
 ### Available Scripts
@@ -196,7 +188,7 @@ dist
 - RLS policies active
 - Authentication configured
 
-## 📝 Sample Data
+## Sample Data
 
 The application includes sample data for demonstration:
 - 3 sample rooms (101, 102, 103)
@@ -211,22 +203,11 @@ This is a production application. For modifications:
 2. Maintain TypeScript types
 3. Ensure all validations work correctly
 4. Test thoroughly before deployment
-
-## 📄 License
+   
+##  License
 
 This project is part of the Miaoda platform.
-
-##  Support
-
-For issues or questions:
-- Check the [USER_GUIDE.md](./docs/USER_GUIDE.md)
-- Review the [QUICK_START.md](./docs/QUICK_START.md)
-- Contact your system administrator
 
 ##  Acknowledgments
 
 Built with modern web technologies and best practices for a seamless user experience.
-
----
-
-**Ready to manage your PG efficiently? Get started now!** 🚀
