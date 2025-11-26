@@ -1,12 +1,12 @@
 # Welcome to Your Miaoda Project
 Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-7te7u5l37v29
+    URL:https:https://app-7te7u5l37v29.appmedo.com/login
 
 # PG Management App
 
 A comprehensive full-stack web application for managing Paying Guest (PG) accommodations. Built with React, TypeScript, Tailwind CSS, and Supabase.
 
-## 🌟 Features
+## Features
 
 - **Room Management**: Create, edit, and delete rooms with different sharing types (2, 3, or 4-sharing)
 - **Tenant Management**: Add, edit, and remove tenants with complete details
@@ -16,7 +16,7 @@ A comprehensive full-stack web application for managing Paying Guest (PG) accomm
 - **Responsive Design**: Professional UI that works seamlessly on desktop and mobile devices
 - **Real-time Updates**: Instant updates across the application
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### For End Users
 
@@ -63,7 +63,7 @@ VITE_SUPABASE_ANON_KEY=<your-supabase-anon-key>
 VITE_APP_ID=app-7te7u5l37v29
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── src/
@@ -90,7 +90,7 @@ VITE_APP_ID=app-7te7u5l37v29
 └── public/                    # Static assets
 ```
 
-## 🎨 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - UI framework
@@ -105,7 +105,7 @@ VITE_APP_ID=app-7te7u5l37v29
 - **PostgreSQL** - Relational database
 - **Row Level Security** - Data protection
 
-## 📊 Database Schema
+##  Database Schema
 
 ### Tables
 
@@ -120,7 +120,7 @@ VITE_APP_ID=app-7te7u5l37v29
 - Unique bed numbers within each room
 - Automatic capacity validation
 
-## 🔐 Authentication
+##  Authentication
 
 - Username/password authentication
 - First registered user becomes admin
@@ -133,7 +133,7 @@ VITE_APP_ID=app-7te7u5l37v29
 - **[USER_GUIDE.md](./docs/USER_GUIDE.md)** - Complete user manual
 - **[IMPLEMENTATION_SUMMARY.md](./docs/IMPLEMENTATION_SUMMARY.md)** - Technical documentation
 
-## 🧪 Development
+##  Development
 
 ### Available Scripts
 
@@ -158,7 +158,7 @@ npm run preview
 - Biome for formatting
 - All code passes lint checks
 
-## 🎯 Key Features Explained
+##  Key Features Explained
 
 ### Room Management
 - Create rooms with automatic capacity assignment based on type
@@ -180,7 +180,7 @@ npm run preview
 - **Bed Numbers**: Must be unique per room and within capacity range
 - **Room Capacity**: Cannot exceed based on room type
 
-## 🌐 Deployment
+##  Deployment
 
 ### Frontend (Vercel)
 ```bash
@@ -204,7 +204,7 @@ The application includes sample data for demonstration:
 
 You can delete this data through the admin interface once familiar with the system.
 
-## 🤝 Contributing
+##  Contributing
 
 This is a production application. For modifications:
 1. Follow the existing code structure
@@ -216,14 +216,14 @@ This is a production application. For modifications:
 
 This project is part of the Miaoda platform.
 
-## 🆘 Support
+##  Support
 
 For issues or questions:
 - Check the [USER_GUIDE.md](./docs/USER_GUIDE.md)
 - Review the [QUICK_START.md](./docs/QUICK_START.md)
 - Contact your system administrator
 
-## 🎉 Acknowledgments
+##  Acknowledgments
 
 Built with modern web technologies and best practices for a seamless user experience.
 
